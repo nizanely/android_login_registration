@@ -10,6 +10,9 @@ class DB_Connect {
         // Connecting to mysql database
         $this->conn = new mysqli(DB_HOST, DB_USER, DB_PASSWORD, DB_DATABASE);
         
+        // Nitzan adds this line for hebrew characters in mysql DB
+		$this->conn->set_charset("utf8");
+        
         // return database handler
         return $this->conn;
     }
