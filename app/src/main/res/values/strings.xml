@@ -1,13 +1,15 @@
 <resources>
-    <string name="app_name">Signin</string>
-    <string name="hint_email">Email</string>
-    <string name="hint_password">Password</string>
-    <string name="hint_name">Fullname</string>
-    <string name="btn_login">LOGIN</string>
-    <string name="btn_register">REGISTER</string>
-    <string name="btn_link_to_register">Not a member? Sign up now.</string>
-    <string name="btn_link_to_login">Already registred! Login Me.</string>
-    <string name="welcome">Welcome</string>
-    <string name="btn_logout">LOGOUT</string>
-    <string name="name">Fullname</string>
+    <string name="app_name">מערכת חיבור ורישום</string>
+    <string name="hint_email">אימייל</string>
+    <string name="hint_password">ססמה</string>
+    <string name="hint_name">שם מלא</string>
+    <string name="btn_login">התחבר</string>
+    <string name="btn_register">הירשם</string>
+    <string name="btn_link_to_register">עדיין לא נרשמת? התחבר עכשיו.</string>
+    <string name="btn_link_to_login">משתמש רשום - התחבר עכשיו</string>
+    <string name="welcome">ברוכים הבאים</string>
+    <string name="btn_logout">התנתק</string>
+    <string name="name">שם מלא</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="button">Button</string>
 </resources>
